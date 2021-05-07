@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ericf\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Jonatan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ericf\\Documents\\GitHub\\estudosCsharp\\Estudos\\Estudos\\Estudos.csproj",
+      "projectUniqueName": "C:\\Users\\Jonatan\\Desktop\\Aplicações\\EstudoC#\\Estudos\\Estudos\\Estudos.csproj",
       "projectName": "Estudos",
-      "projectPath": "C:\\Users\\ericf\\Documents\\GitHub\\estudosCsharp\\Estudos\\Estudos\\Estudos.csproj",
-      "packagesPath": "C:\\Users\\ericf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ericf\\Documents\\GitHub\\estudosCsharp\\Estudos\\Estudos\\obj\\",
+      "projectPath": "C:\\Users\\Jonatan\\Desktop\\Aplicações\\EstudoC#\\Estudos\\Estudos\\Estudos.csproj",
+      "packagesPath": "C:\\Users\\Jonatan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonatan\\Desktop\\Aplicações\\EstudoC#\\Estudos\\Estudos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ericf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Jonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
